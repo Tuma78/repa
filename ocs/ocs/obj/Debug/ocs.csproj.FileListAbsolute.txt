@@ -1,0 +1,14 @@
+C:\Users\pan\source\repos\ocs\ocs\bin\Debug\ocs.exe.config
+C:\Users\pan\source\repos\ocs\ocs\bin\Debug\ocs.exe
+C:\Users\pan\source\repos\ocs\ocs\bin\Debug\ocs.pdb
+C:\Users\pan\source\repos\ocs\ocs\obj\Debug\ocs.csproj.AssemblyReference.cache
+C:\Users\pan\source\repos\ocs\ocs\obj\Debug\ocs.csproj.CoreCompileInputs.cache
+C:\Users\pan\source\repos\ocs\ocs\obj\Debug\ocs.exe
+C:\Users\pan\source\repos\ocs\ocs\obj\Debug\ocs.pdb
+C:\Users\pan\Desktop\rep1\ocs\ocs\obj\Debug\ocs.csproj.AssemblyReference.cache
+C:\Users\pan\Desktop\rep1\ocs\ocs\obj\Debug\ocs.csproj.CoreCompileInputs.cache
+C:\Users\pan\Desktop\rep1\ocs\ocs\obj\Debug\ocs.exe
+C:\Users\pan\Desktop\rep1\ocs\ocs\obj\Debug\ocs.pdb
+C:\Users\pan\Desktop\rep1\ocs\ocs\bin\Debug\ocs.exe.config
+C:\Users\pan\Desktop\rep1\ocs\ocs\bin\Debug\ocs.exe
+C:\Users\pan\Desktop\rep1\ocs\ocs\bin\Debug\ocs.pdb
