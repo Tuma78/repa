@@ -14,9 +14,9 @@ namespace Task1.Tests
             //arrange
             for (int i = 1; i < 16; i++)
             {
-            string input = ocs.Task1.Solver(String.Format("1//{0}.",i));
+            string input = ocs.Task1.Solver(String.Format("1//{0}.",i)).Replace("\r", "");
             
-            string output = File.ReadAllText(String.Format("1//{0}.a",i)).Replace("\n","");
+            string output = File.ReadAllText(String.Format("1//{0}.a",i)).Replace("\n","").Replace("\r", "");
 
             Assert.AreEqual(input,output);
             }
