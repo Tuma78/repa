@@ -21,9 +21,9 @@ namespace Task3.Tests
                 //arrange
                 for (int i = 2; i < 16; i++)
                 {
-                    string output = ocs.Task3.Solver3(String.Format("3//{0}.", i));
+                    string output = ocs.Task3.Solver3(String.Format("3//{0}.", i)).Replace("\r", "");
 
-                    string input = File.ReadAllText(String.Format("3//{0}.a", i));
+                    string input = File.ReadAllText(String.Format("3//{0}.a", i)).Replace("\r", "");
 
                     Assert.AreEqual(input, output);
                 }
