@@ -15,7 +15,7 @@ namespace ocs
         static void Main(string[] args)
         {
 
-            Console.WriteLine( Task3.Solver3(@"C:\Users\pan\Desktop\rep1\ocs\Task1.Tests\bin\Debug\net6.0\3\2."));
+            
         }
         static public string Solver(string path)
         {
